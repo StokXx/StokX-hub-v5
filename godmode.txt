@@ -1,0 +1,2 @@
+People = game.Players.LocalPlayer.Character
+game.Workspace.resources.events.humTakeDamage:FireServer(People.Humanoid, -9999999)

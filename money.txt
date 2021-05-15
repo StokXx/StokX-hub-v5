@@ -1,0 +1,3 @@
+game.Workspace.resources.events.humTakeDamage:FireServer(game.Workspace.commonInfected.Zombie.Humanoid, 112.90235757828)
+game.Workspace.resources.events.humTakeDamage:FireServer(game.Workspace.commonInfected.Zombie.Humanoid, 112.90235757828)
+end
